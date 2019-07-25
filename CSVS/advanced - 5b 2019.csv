@@ -1,0 +1,26 @@
+stepNumber,instructions/0/position,instructions/0/action,instructions/1/position,instructions/1/action,instructions/2/position,instructions/2/action,directiveIdeas
+1,A,Enter collected canter,X,"Halt, Salute Proceed in collected trot",,,"Engagement, collection and quality of paces; well defined transitions; straightness, attentiveness; immobility (Min 3 secs)"
+2,C,Track right ,MB,Shoulder-in right,,,"Angle, bend, balance, engagement and collection"
+3,BK,"Change rein, medium trot",KA,Collected trot,,," Lengthening of frame and stride with engagement, elasticity, suspension, straightness and uphill balance; consistent tempo; and defined transitions"
+4,A,Down centreline ,DE,Half pass left,,,"Fluency, bend and crossing of legs; engagement and collection"
+5,EG,Half pass right,CH,Half pass right,,,Supple change of bend; fluency and crossing of legs; engagement and collection
+6,HE,Shoulder-in left,,,,,"Angle, bend, balance; engagement and collection"
+7,EF,"Change rein, medium trot",FA,"Change rein, medium trot",,," Lengthening of frame and stride with engagement, elasticity, suspension, straightness and uphill balance; consistent tempo; and defined transitions"
+8,A,Collected walk,KR,"Change rein, extended walk",,,Regularity; suppleness of back; activity; overtrack; freedom of shoulder; stretching to the bit; well defined transitions
+9,R,Collected walk,M,Turn left,Between G&H,Half pirouette left  Proceed collected walk,"Regularity; activity of hind legs; bend, fluency; size; self carriage"
+10,Between G&M,Half pirouette right  Proceed in collected walk,H,Turn right,,,"Regularity; activity of hind legs; bend, fluency; size; self carriage"
+11,,"Regularity; activity of hind legs; bend, fluency; size; self carriage",,,,,"Regularity; activity of hind legs; bend, fluency; size; self carriage"
+12,C,Collected canter right lead,CM,Collected canter,,,"Precise, fluent transition; engagement and collection"
+13,MF,Medium canter,FA,Collected canter,,,"Moderate lengthening of frame and stride with engagement, elasticity, suspension, straightness and uphill balance; consistent tempo; well defined transitions"
+14,A,Down centerline,DB,Half pass right,,,Alignment and bend while moving fluently forward and sideways; engagement and self carriage
+15,B,Flying change of lead,,,,,"Clear, balanced, fluent, straight flying change, engagement and collection"
+16,BG,Half pass left,CH,Track left,,,Alignment and bend while moving fluently forward and sideways; engagement and self carriage
+17,HX,On diagonal develop very collected canter,Approaching X,Working pirouette left toward the letter M,MCH,Collected canter,"Bend and balance of working pirouette; straightness, regularity, engagement and collection of canter"
+18,HK,Extended canter,KF,Collected canter,,,"Utmost ground cover with lengthening of frame; engagement; elasticity; suspension, straightness; well defined transitions maintaining temp and balance"
+19,FXH,"Change rein, three flying changes every fourth stride",HCM,Collected canter,,,"Clear, balanced, fluent, straight flying changes; engagement, quality of canter"
+20,MX,On diagonal develop very collected canter,Approaching X,Working pirouette right toward the letter H,HCM,Collected canter,"Bend and balance of working pirouette; straightness, regularity, engagement and collection of canter"
+21,M,Collected trot,MR,Collected trot,,,"Well defined, balanced, engaged transition; engagement and collection"
+22,RK,"Change rein, extended trot",KA,Collected trot,,,"Utmost ground cover with lengthening of frame; elasticity; engagement, suspension; straightness and uphill balance"
+23,A,Down centerline,X,Halt. Salute,,,"Bend and balance in turn; engagement, collection and quality of canter; well defined transition; straightness, attentiveness; immobility (min 3 secs)"
+,,,,,,,
+Fourth level test 2,,,,,,,

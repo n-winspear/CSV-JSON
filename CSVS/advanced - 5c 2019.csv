@@ -1,0 +1,26 @@
+stepNumber,instructions/0/position,instructions/0/action,instructions/1/position,instructions/1/action,instructions/2/position,instructions/2/action,instructions/3/position,instructions/3/action,directiveIdeas
+1,A,Enter collected canter,X,"Halt, Salute ",,,Proceed in collected trot,,"Engagement, collection and quality of paces; well defined transitions; straightness, attentiveness; immobility (Min 3 secs)"
+2,C,Track left,HXF,"Change rein, extended trot",FA,Collected trot,,,"Utmost ground cover with lengthening of frame; elasticity; engagement, suspension; straightness and uphill balance"
+3,,(Transitions at H & F),,,,,,,Well defined maintaining tempo and balance
+4,A,Down centreline Shoulder-in right,DX,Shoulder-in right,,,,,"Angle, bend and balance; engagement and collection"
+5,XM,Half pass right Collected trot,MC,Collected trot,,,,,"Alignment, bend, fluency and crossing of legs; engagement and collection"
+6,C,"Halt, rein back 4 steps, Proceed in Collected trot",CH,Collected trot,,,,,"Immobility, willing steps back with correct rhythm and count; straightness; well defined transitions"
+7,HX,Half pass left,,,,,,,"Alignment, bend, fluency and crossing of legs; engagement and collection"
+8,XD,Shoulder-in left,A,Turn left Collected trot,AF,Collected trot,,,"Angle, bend and balance; engagement and collection"
+9,FP,"Collected walk Change rein, extended walk",PH,"Change rein, extended walk",HC,Collected walk,,,Regularity; suppleness of back; activity; overtrack; freedom of shoulder; stretching to the bit; well defined transitions
+10,,(Collected walk) F-P/H-C,,,,,,,Regularity; suppleness of the back; activity; collection
+11,C,Collected canter right lead collected canter,CR,collected canter,,,,,"Precise, fluent transition; engagement and collection"
+12,RI,Half circle right 10m ,IS,Half circle left 10m,E,Flying change of lead,EV,Collected canter,"Shape and size of half circles; positioning in true canter and counter canter; self carriage; engagement clear, balanced, fluent, straight flying change"
+13,VL,Half circle left 10m,LP,Half circle right 10m ,B,Flying change of lead,BR,Collected canter,"Shape and size of half circles; positioning in true canter and counter canter; self carriage; engagement clear, balanced, fluent, straight flying change"
+14,KX,Half Pass right,X,Flying change of lead,,,,,"Alignment and bend while moving fluently forward and sideways; engagement and self carriage; clear, balanced, fluent, straight flying change"
+15,XH,Half Pass left,H,Flying change of lead,HM,Collected canter,,,"Alignment and bend while moving fluently forward and sideways; engagement and self carriage; clear, balanced, fluent, straight flying change"
+16,MXK,"Change rein, extended canter",K,Collected canter and flying change,KF,Collected canter,,,"Utmost ground cover with lengthening of frame; elasticity; engagement, suspension; straightness and uphill balance; well defined transitions; clear balanced, fluent, straight flying change on diagonal"
+17,FX,"On diagonal, develop very collected canter",Before X,Working half pirouette left no more than 2m in diameter,Before F,Flying change of lead,FK,Collected canter,"Size, bend and balance of working pirouette; straightness, regularity, engagement and collection of canter; clear balanced, fluent, straight flying change"
+18,KX,"On diagonal, develop very collected canter",Before X,Working half pirouette left no more than 2m in diameter,Before K,Flying change of lead,KF,Collected canter,"Size, bend and balance of working pirouette; straightness, regularity, engagement and collection of canter; clear balanced, fluent, straight flying change"
+19,FXH,"Change rein, three flying changes every third stride",HC,Collected canter,,,,,"Clear. Balanced, fluent, straight flying changes; engagement, quality of canter"
+20,C,Collected trot,CM,Collected trot,,,,,"Well defined, balanced, engaged transition; engagement and collection"
+21,MF,Medium trot,FA,Collected trot,,,,,"Moderate lengthening of frame and stride with engagement, elasticity, suspension, straightness and uphill balance; consistent tempo; well defined transitions"
+22,A,Down the centreline,X,"Halt, Salute",,,,,"Bend and balance in turn; engagement, collection and quality of trot; well defined transition; straightness, attentiveness; immobility (min 3 secs)"
+,,,,,,,,,
+,,,,,,,,,
+Fourth level test 3,,,,,,,,,

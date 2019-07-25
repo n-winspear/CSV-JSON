@@ -1,0 +1,28 @@
+stepNumber,instructions/0/position,instructions/0/action,instructions/1/position,instructions/1/action,instructions/2/position,instructions/2/action,directiveIdeas
+1,A,Enter in collected trot,X,"Halt, Salute",,Proceed in collected trot,"Engagement, collection and quality of paces; well defined transitions; straightness, attentiveness; immobility (Min 3 secs)"
+2,C,Track left,HXF,"Change rein, medium trot",FK,Collected trot,"Moderate lengthening of frame and stride with engagement, elasticity, suspension, straightness and uphill balance; consistent tempo; well defined transitions"
+3,KE,Shoulder-in right,,,,,"Angle, bend and balance; engagement and self carriage"
+4,EX,Half circle right 10m,XB,Half circle left 10m,,,Shape and size of half circles; supple change of bend on centreline; engagement and self carriage
+5,BG,Half pass left,C,Track right,CM,Collected trot,"Alignment, bend, fluency and crossing of legs; engagement and self carriage"
+6,MXK,"Change rein, extended trot",KA,Collected trot,,,"Utmost ground cover with lengthening of frame; elasticity; engagement, suspension; straightness and uphill balance"
+7,,(Transitions at M & K),,,,,Well defined maintaining tempo and balance
+8,A,"Halt, rein back 4 steps Proceed in Collected trot",AF,Collected trot,,,Immobility. Willing steps back with correct rhythm and count; straightness; well defined transition
+9,FB,Shoulder-in left,,,,,"Angle, bend and balance; engagement and self carriage"
+10,BX,Half circle left 10m,XE,Half circle right 10m,,,Shape and size of half circles; supple change of bend on centreline; engagement and self carriage
+11,EG,Half pass right,C,Track left,,,"Alignment, bend, fluency and crossing of legs; engagement and self carriage"
+12,Between C& H,Medium walk,H,Turn left,Between G& M,Shorten the stride and half pirouette left Proceed medium walk,Quality of shortened walk strides; tempo and regularity; activity of hind legs; bend and fluency in turn
+13,Between G& H,"Shorten stride, half pirouette right Proceed in medium walk",M,Turn right,MR,Medium walk,Quality of shortened walk strides; tempo and regularity; activity of hind legs; bend and fluency in turn
+14,,(Medium walk) CHG(M)G(H)GMR,,,,,Regularity and quality of walk
+15,RV,"Change rein, extended walk",VK,Medium walk,,,Regularity; suppleness of back; activity; overtrack; freedom of shoulder; stretching to the bit; clear transitions
+16,Before K,Shorten the stride in walk ,K,Collected canter left lead,KF,Collected canter,Well defined transition; regularity and self carriage; engagement and quality of canter
+17,FX,Half pass left,XI,Collected canter,,,Alignment and bend while moving fluently forward and sideways; engagement and self carriage
+18,IS,Half circle left 10m,SF,"Change rein, flying change of lead near centreline",FK,Collected canter,"Shape and size of half circle; bend; clear, balanced, fluent, straight flying change; engagement and self carriage"
+19,KX,Half pass right,XI,Collected canter,,,Alignment and bend while moving fluently forward and sideways; engagement and self carriage
+20,IR,Half circle right 10m,RK,"Change rein, flying change of lead near centreline",KF,Collected canter,"Shape and size of half circle; bend; clear, balanced, fluent, straight flying change; engagement and self carriage"
+21,FM,Extended canter,MH,Collected canter,,,"Utmost ground cover with lengthening of frame; elasticity; engagement, suspension; straightness and uphill balance"
+22,,(Transitions at F & M),,,,,Well defined maintaining tempo and balance
+23,HE,Collected trot,,,,,"Well defined, balanced, engaged transition; engagement and collection"
+24,E,Turn left,X,Turn left,G,"Halt, Salute","Bend and balance in turns; engagement, self carriage and quality of trot; well defined transition; straightness, attentiveness; immobility (min 3 secs)"
+,,,,,,,
+,,,,,,,
+Third level test 3,,,,,,,
